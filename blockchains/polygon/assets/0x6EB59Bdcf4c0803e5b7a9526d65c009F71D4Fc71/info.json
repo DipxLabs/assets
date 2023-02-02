@@ -1,0 +1,7 @@
+{
+  "name": "DAI",
+  "symbol": "DAI",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x6EB59Bdcf4c0803e5b7a9526d65c009F71D4Fc71"
+}
