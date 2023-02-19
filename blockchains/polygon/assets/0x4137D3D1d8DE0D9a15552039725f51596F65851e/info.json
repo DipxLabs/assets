@@ -1,0 +1,9 @@
+{
+  "name": "tETH",
+  "symbol": "tETH",
+  "type": "POLYGON",
+  "decimals": 18,
+  "description": "eth",
+  "status": "active",
+  "id": "0xa1dcF885C43A3Ce16de5fcf734e7A6f43D07609c"
+}
