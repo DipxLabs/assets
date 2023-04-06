@@ -1,0 +1,7 @@
+{
+  "name": "USDC",
+  "symbol": "USDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xfE784707D8A35968e74010d130d38f1Bb9388Ae0"
+}

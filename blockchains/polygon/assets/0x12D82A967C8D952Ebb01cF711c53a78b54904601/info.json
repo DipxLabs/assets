@@ -1,0 +1,11 @@
+{
+  "name": "DIPX",
+  "website": "https://polygon.iron.finance/",
+  "description": "Multi-chain DEX",
+  "explorer": "https://polygonscan.com/token/0x12D82A967C8D952Ebb01cF711c53a78b54904601",
+  "type": "POLYGON",
+  "symbol": "DIPX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x12D82A967C8D952Ebb01cF711c53a78b54904601"
+}
